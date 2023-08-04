@@ -1,7 +1,8 @@
 # 💫 About Me:
 <br>🌱 I am currently pursuing a degree in Software Engineering, <br>and I am also actively working on personal projects that have been instrumental in honing my skills day by day.<br>These projects have not only deepened my understanding of various software development concepts but have also helped me gain practical experience in implementing them. <br>As a result, I feel more confident in my ability to take on complex programming challenges and deliver quality solutions.<br>
 
-
+# ¡Hola! Soy Ezequiel Elguedo, desarrollador de software ! 💻
+# Si quieres ponerte en contacto conmigo!
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/ezequieljose.elguedosantander) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-elguedo) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ezequieljoseelguedosantander@gmail.com)
